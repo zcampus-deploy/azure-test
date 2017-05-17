@@ -1,0 +1,4 @@
+{
+  "_comment_": "Can be one of 'development' or 'production' - check config.json for supported ones",
+  "name": "development"
+}
