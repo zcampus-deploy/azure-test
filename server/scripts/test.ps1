@@ -1,1 +1,1 @@
-Write-Host "Hello, world"
+Write-Output $MyInvocation.MyCommand.Path

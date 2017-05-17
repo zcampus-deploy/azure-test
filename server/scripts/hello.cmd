@@ -1,3 +1,0 @@
-@ECHO OFF
-ECHO Hello World!
-ECHO ON
